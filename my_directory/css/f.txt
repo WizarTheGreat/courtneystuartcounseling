@@ -1,0 +1,16 @@
+<p>
+<div style="height:22%">
+<a href="my_directory/life_coaching.html" target="_parent"><button class = "button1">Life Coaching</button>
+</a>  
+	
+
+
+
+<a href="my_directory/counseling.html" target="_parent"><button class = "button2">Counseling</button>
+</a> 
+</div>
+<div>
+<a href="mailto:courtneystuart@gmail.com?subject=Website Contact" target="_parent"><button style="position:fixed;bottom:0px;left:50%;width:20%;height:4%; transform: translateX(-50%);"> Contact me! </button>
+</a>
+</div>
+<a href="mailto:courtneystuart@gmail.com?subject=Website Contact" target="_parent"><button style="position:fixed;bottom:0px;left:50%;width:20%;height:4%; transform: translateX(-50%);"> Contact me! </button>

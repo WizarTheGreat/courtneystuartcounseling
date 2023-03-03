@@ -1,0 +1,14 @@
+img.left-image{
+ position:fixed;
+ left:0px;
+ top:0px;
+ width:7%;
+ height:100%;
+}
+img.right-image{
+ position:fixed;
+ right:0px;
+ top:0px;
+ width:7%;
+ height:100%;
+}

@@ -1,0 +1,65 @@
+.header {
+  width:30%;
+  height:10%;
+  top:200px;
+}
+.text1 {
+width:70%
+}
+
+.button1
+{
+  width: 200px;
+  height: 120px;
+  margin: 5px;
+  background-image: url('my_directory/photos/sunset.jfif');
+  background-size: 100% 100%;
+  color: white;
+  font-size: 20px;
+  cursor:pointer;
+}
+.button1:hover {
+    background-image: url('my_directory/photos/sunset_dark.jpg');
+}
+.button2
+{
+  width: 200px;
+  height: 120px;
+  margin: 5px;
+  background-image: url('my_directory/photos/therapy_chair.jpg');
+  background-size: 100% 100%;
+  color: white;
+  font-size: 20px;
+  cursor:pointer;
+}
+.button2:hover {
+    background-image: url('my_directory/photos/therapy_chair_dark.jpg');
+}
+.button3
+{
+  width: 200px;
+  height: 120px;
+  margin: 5px;
+  background-image: url('my_directory/photos/death.jpg');
+  background-size: 100% 100%;
+  color: white;
+  font-size: 20px;
+  cursor:pointer;
+}
+.button3:hover {
+    background-image: url('my_directory/photos/death_dark.jpg');
+}
+.left-image {
+position:fixed;
+left:0px;
+top:0px;
+height:100%;
+width:7%;
+}
+.right-image {
+position:fixed;
+right:0px;
+top:0px;
+height:100%;
+width:7%;
+}

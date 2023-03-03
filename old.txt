@@ -1,0 +1,54 @@
+<html> 
+    <head> 
+        <title>
+            Courtney Stuart's Help Center
+              </title>
+    </head> 
+      
+    <body> 
+      <center>
+        <p>
+            <h2 style="font-family:Segoe Script">
+                Courtney Stuart's Help Center
+        </h2>
+        </p> 
+        <h2 style="font-family:Segoe Script">
+            Get Life Coaching or Counseling!
+  
+        </h2>
+<style>
+.button1
+{
+
+}
+
+.inner
+{
+    margin-left:50px;
+}
+.cn{
+ -moz-box-shadow: 3px 3px 4px #000; 
+ -webkit-box-shadow: 3px 3px 4px #000; 
+ box-shadow: 3px 3px 4px #000; 
+}
+
+
+<div>
+        <a href="my_directory/life_coaching.html" target="_parent" style="position:relative;top:400px"><button style="height:120px;width:200px;background-image: url('my_directory/photos/sunset.jfif');
+background-size: 100% 100%;color:white;font-size:20px;font-family:Arial Nova;cursor:pointer;">
+            Life Coaching
+        </button>
+</a>
+
+
+        <a href="my_directory/counseling.html" target="_parent" style="position:relative;top:400px"><button style="height:120px;width:200px;background-image: url('my_directory/photos/therapy_chair.jpg');
+background-size: 100% 100%;color:white;font-size:20px;font-family:Arial Nova;cursor:pointer;">
+            Counseling
+        </button>
+</a>
+</div>
+
+
+</div>
+</body>
+</html>    
